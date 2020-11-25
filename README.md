@@ -11,7 +11,7 @@
 
 
 ### MAINTAINERS
-* **SUMAN MONDAL**| 
+* **YASIF**| 
 Twitter: <a href="https://twitter.com/suman333mondal">@suman333mondal</a>
 Github: <a href="https://github.com/OnlineHacking">@OnlineHacking</a>
 Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
@@ -20,7 +20,7 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 
 ## Video Tutorials
 
-[Video](https://youtu.be/g8GF7n0O_LI)
+[Video](https
 
 
 ## Requirements
@@ -41,7 +41,7 @@ $ apt-get upgrade -y
 $ pkg install mpv -y
 ```
 ```
-$ git clone https://github.com/OnlineHacKing/Voice-Welcome.git
+$ git clone https://github.com/yasif-tracker/style.git
 ```
 ```
 $ cd Voice-Welcome
@@ -56,15 +56,15 @@ Now Type exit & restart Termux
 
 ### Update Tool
 ```
-$ rm -rf 'Voice-Welcome' && pkg install mpv -y && git clone https://github.com/OnlineHacKing/Voice-Welcome.git && cd Voice-Welcome && chmod +x * && sh install.sh && exit
+$ rm -rf 'Style' && pkg install mpv -y && git clone https://github.com/OnlineHacKing/Voice-Welcome.git && cd Voice-Welcome && chmod +x * && sh install.sh && exit
 ```
 
 ## Video Tutorials
 
-[Video](https://youtu.be/g8GF7n0O_LI)
+[Video](https://yoI)
 
 ### Subscribe our channel on youtube
-https://www.youtube.com/OnlineHacking
+https://www.youtube.com/yasiftech
 
 ### Chekout our webite 
 www.onlinehacking-net.com
