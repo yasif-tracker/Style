@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/54/19/02/541902f716f7edd427cfa5a9e1230be6.png">  
 </p>
 
-<h1 align="center">Termux Voice Welcome - OnlineHacking</h1>
+<h1 align="center">Termux Voice Style</h1>
 <p align="center">
   Welcome Banner In Termux
 </p>
@@ -44,7 +44,7 @@ $ pkg install mpv -y
 $ git clone https://github.com/yasif-tracker/style.git
 ```
 ```
-$ cd Voice-Welcome
+$ cd style
 ```
 ```
 $ chmod +x *
