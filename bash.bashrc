@@ -5,7 +5,7 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[Yasif Track
 clear
 mpv /$HOME/Voice-Welcome/termux.mp3
 clear
-echo -e "Created By \e[Yasif"
+echo -e "Created By \e[YASIF"
 echo "----------------------------" | lolcat
 echo -e "\e[1;92m "
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■⊣"
@@ -30,17 +30,17 @@ echo "      Mb.            YMMMb OOOI,,,,,IOOOO dMMMP            ,dM  "
 echo "       ••                   OObNNNNNdOO                    •• "
 echo "                              ~OOOOO~    YASIF "
 echo "              _ "
-echo "             / \ ._  | o ._   _    |_|  _.  _ |  o ._   _ "
+echo "             / \ ._  | o ._   _    |\_|  _.  _ |  o ._   _ "
 echo "             \_/ | | | | | | (/_   | | (_| (_ |< | | | (_| "
-echo "                                                        _| "
+
 echo -e "\e[1;92m"
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■□■⊣"
 echo ""
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mYouTube   \e[1;91m =  \e[1;97YasifTracker"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mYouTube   \e[1;91m =  \e[1;97m@YasifTech"
 echo "" 
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mGithub    \e[1;91m =  \e[1;97yasiftech"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mGithub    \e[1;91m =  \e[1;97m@yasiftracker"
 echo ""
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mTelegram  \e[1;91m =  \e[1;97m@Oyasiftech"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mTelegram  \e[1;91m =  \e[1;97m@yasiftech"
 echo ""
 echo ''
 date | lolcat
